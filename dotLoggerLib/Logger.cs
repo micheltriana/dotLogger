@@ -1,6 +1,6 @@
 ﻿using NLog;
 
-namespace dotLogger
+namespace System
 {
     public class Logger
     {

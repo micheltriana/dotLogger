@@ -4,3 +4,6 @@ obj
 
 # mstest test results
 TestResults
+packages/NLog.Schema.2.1.0/
+packages/NLog.2.1.0/
+packages/NLog.Config.2.1.0/
